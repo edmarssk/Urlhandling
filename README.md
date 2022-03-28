@@ -3,6 +3,7 @@
  
 
 Instructions to run this API project
+
 1 - Load this project in local repository
 
 2 - Open the projet no Visual Studio 2019
@@ -16,6 +17,6 @@ with reference to project UrlHandling.Data
 
 6 - Execute the project in Development Environment(ISS Dev)
 
-7 - Use the page https://localhost:44399/swagger/index.html but check if port loca is really 44399
+7 - Use the page https://localhost:44399/swagger/index.html but check if port local is really 44399
 
 7 - Use the project https://github.com/edmarssk/url-link-react the run together with API.
