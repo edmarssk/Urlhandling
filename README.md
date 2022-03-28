@@ -19,4 +19,4 @@ with reference to project UrlHandling.Data
 
 7 - Use the page https://localhost:44399/swagger/index.html but check if port local is really 44399
 
-7 - Use the project https://github.com/edmarssk/url-link-react the run together with API.
+7 - Use the project https://github.com/edmarssk/UrlShortLinkReactFront and run together with this API project.

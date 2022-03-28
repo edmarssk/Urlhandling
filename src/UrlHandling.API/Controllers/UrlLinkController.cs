@@ -45,7 +45,7 @@ namespace UrlHandling.API.Controllers
         [Route("url/details/{id:guid}")]
         public async Task<ActionResult> FindUrlById(Guid id)
         {
-            var urlLink = await _urlLinkRepository.FindById(id);
+            var urlLink = _mapper.Map<UrlLinkResponse>(await _urlLinkRepository.FindById(id));
 
             if (urlLink == null) return NotFound();
 
@@ -58,7 +58,7 @@ namespace UrlHandling.API.Controllers
         {
             if(!ModelState.IsValid) return CustomResponse(ModelState);
 
-            var urlLink = await _urlLinkService.CreateShortUrl(urlRequest.OriginalUrl);
+            var urlLink = _mapper.Map<UrlLinkResponse>(await _urlLinkService.CreateShortUrl(urlRequest.OriginalUrl));
 
             return CustomResponse(urlLink);
 
