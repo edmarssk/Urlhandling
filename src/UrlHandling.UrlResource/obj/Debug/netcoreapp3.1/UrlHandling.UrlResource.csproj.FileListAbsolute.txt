@@ -1,0 +1,24 @@
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.deps.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.csprojAssemblyReference.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.AssemblyInfoInputs.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.AssemblyInfo.cs
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.csproj.CoreCompileInputs.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.csproj.CopyComplete
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.deps.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.csprojAssemblyReference.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.AssemblyInfoInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.AssemblyInfo.cs
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.csproj.CoreCompileInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.csproj.CopyComplete
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.UrlResource\obj\Debug\netcoreapp3.1\UrlHandling.UrlResource.pdb

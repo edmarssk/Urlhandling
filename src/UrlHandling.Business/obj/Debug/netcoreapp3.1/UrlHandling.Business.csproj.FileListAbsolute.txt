@@ -1,0 +1,17 @@
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\bin\Debug\netcoreapp3.1\UrlHandling.Business.deps.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.AssemblyInfoInputs.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.AssemblyInfo.cs
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.csproj.CoreCompileInputs.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\bin\Debug\netcoreapp3.1\UrlHandling.Business.deps.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.csprojAssemblyReference.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.AssemblyInfoInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.AssemblyInfo.cs
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.csproj.CoreCompileInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Business\obj\Debug\netcoreapp3.1\UrlHandling.Business.pdb

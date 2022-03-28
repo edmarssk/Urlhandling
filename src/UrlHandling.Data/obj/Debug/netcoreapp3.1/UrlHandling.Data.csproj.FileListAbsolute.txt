@@ -1,0 +1,30 @@
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.deps.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.csprojAssemblyReference.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.AssemblyInfoInputs.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.AssemblyInfo.cs
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.runtimeconfig.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.runtimeconfig.dev.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.csproj.CopyComplete
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.genruntimeconfig.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.csproj.CoreCompileInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.deps.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.runtimeconfig.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.runtimeconfig.dev.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Data.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.csprojAssemblyReference.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.AssemblyInfoInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.AssemblyInfo.cs
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.csproj.CoreCompileInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.csproj.CopyComplete
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.Data\obj\Debug\netcoreapp3.1\UrlHandling.Data.genruntimeconfig.cache

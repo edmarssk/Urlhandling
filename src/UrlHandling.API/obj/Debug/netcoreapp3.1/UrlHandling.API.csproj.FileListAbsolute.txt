@@ -1,0 +1,170 @@
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Data.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.csprojAssemblyReference.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.AssemblyInfoInputs.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.AssemblyInfo.cs
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.RazorTargetAssemblyInfo.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Production.Development.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Staging.Development.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.exe
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.deps.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.runtimeconfig.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.runtimeconfig.dev.json
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Data.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.csproj.CopyComplete
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\staticwebassets\UrlHandling.API.StaticWebAssets.Manifest.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\staticwebassets\UrlHandling.API.StaticWebAssets.xml
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.pdb
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.genruntimeconfig.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.csproj.CoreCompileInputs.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Edmar\Documents\Visual Studio 2019\Projetos\UrlHandling\UrlHandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Production.Development.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Staging.Development.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.exe
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.deps.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.runtimeconfig.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.runtimeconfig.dev.json
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.API.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Business.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Data.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Business.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.Data.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\bin\Debug\netcoreapp3.1\UrlHandling.UrlResource.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.csprojAssemblyReference.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.AssemblyInfoInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.AssemblyInfo.cs
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.csproj.CoreCompileInputs.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.RazorTargetAssemblyInfo.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.csproj.CopyComplete
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\staticwebassets\UrlHandling.API.StaticWebAssets.Manifest.cache
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\staticwebassets\UrlHandling.API.StaticWebAssets.xml
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.dll
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.pdb
+C:\Projects\UrlHandling\Urlhandling\src\UrlHandling.API\obj\Debug\netcoreapp3.1\UrlHandling.API.genruntimeconfig.cache
