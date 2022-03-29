@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Web;
 using UrlHandling.API.ViewModel;
 using UrlHandling.Business.Interfaces.Repository;
 using UrlHandling.Business.Interfaces.Services;
@@ -46,6 +47,19 @@ namespace UrlHandling.API.Controllers
         public async Task<ActionResult> FindUrlById(Guid id)
         {
             var urlLink = _mapper.Map<UrlLinkResponse>(await _urlLinkRepository.FindById(id));
+
+            if (urlLink == null) return NotFound();
+
+            return Ok(urlLink);
+        }
+
+        [HttpGet]
+        [Route("url/details-original-url/{originalurl}")]
+        public async Task<ActionResult> FindUrlByOriginalUrl(string originalurl)
+        {
+            var urlEncode = HttpUtility.UrlDecode(originalurl);
+
+            var urlLink = await _urlLinkRepository.FindUrlByOriginal(urlEncode);
 
             if (urlLink == null) return NotFound();
 
