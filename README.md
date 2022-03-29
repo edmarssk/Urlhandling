@@ -1,6 +1,6 @@
 # Urlhandling-Short-Url
  This Repository is to project API UrlHandling that create short URLs, the project Urlhandling
- was developer in .net core 3.1 on the Visual Studio 2019 and SQL Server 2012+
+ was developed in .net core 3.1 on the Visual Studio 2019 and SQL Server 2012+
  
 
 Instructions to run this API project
