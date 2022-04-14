@@ -29,23 +29,40 @@ namespace UrlHandling.Business.Services
 
             if (urlLinkExist != null) return urlLinkExist;
 
-            if(UrlValidation.IsValid2(originalUrl))
+            if (UrlValidation.IsValid2(originalUrl))
             {
                 Notify("This Url is invalid!");
                 return null;
             }
 
-            var shortUrl = await _urlService.CreateShortUrl(originalUrl);
+            //var shortUrl = await _urlService.CreateShortUrl(originalUrl);
+            var shortUrl = await _urlService.CreateShortUrlInternal();
+            var shortUrlLinkExist = await _urlLinkRepository.FindUrlByOriginal(originalUrl);
 
-            var urlLink = new UrlLink() { OriginalUrl = originalUrl,
+            while (shortUrlLinkExist != null)
+            {
+                shortUrl = await _urlService.CreateShortUrlInternal();
+                shortUrlLinkExist = await _urlLinkRepository.FindUrlByOriginal(originalUrl);
+            }
+
+            var urlLink = new UrlLink()
+            {
+                OriginalUrl = originalUrl,
                 ShortUrl = shortUrl,
                 Active = true,
-                RegistrationDate = DateTime.Now };
+                RegistrationDate = DateTime.Now
+            };
 
             await _urlLinkRepository.Insert(urlLink);
 
             return urlLink;
 
+        }
+
+        public async Task<UrlLink> GetUrlLinkByHashCode(string hashCode)
+        {
+            var shortUrl = _urlService.GetShortUrlInternal(hashCode);
+            return await _urlLinkRepository.FindUrlByShort(shortUrl.Result);
         }
     }
 }

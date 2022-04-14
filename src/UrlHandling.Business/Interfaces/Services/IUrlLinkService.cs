@@ -10,5 +10,7 @@ namespace UrlHandling.Business.Interfaces.Services
     {
         Task<UrlLink> CreateShortUrl(string originalUrl);
 
+        Task<UrlLink> GetUrlLinkByHashCode(string hashcode);
+
     }
 }

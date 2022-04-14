@@ -8,7 +8,7 @@ GO
 CREATE TABLE [dbo].[UrlLink](
 	[Id] [uniqueidentifier] NOT NULL,
 	[ShortUrl] [varchar](100) NOT NULL,
-	[OriginalUrl] [varchar](500) NOT NULL,
+	[OriginalUrl] [varchar](1500) NOT NULL,
 	[RegistrationDate] [datetime2](7) NOT NULL,
 	[Active] [bit] NOT NULL,
  CONSTRAINT [PK_UrlLink] PRIMARY KEY CLUSTERED 
