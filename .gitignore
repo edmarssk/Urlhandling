@@ -3,3 +3,14 @@ src/UrlHandling.API/obj/Debug/netcoreapp3.1/UrlHandling.API.csprojAssemblyRefere
 .vs/UrlHandling/v15/.suo
 *.dll
 *.dll
+log
+src\UrlHandling.API\bin
+src\UrlHandling.API\obj
+src\UrlHandling.Business\bin
+src\UrlHandling.Business\obj
+src\UrlHandling.Data\bin
+src\UrlHandling.Data\obj
+src\UrlHandling.Domain\bin
+src\UrlHandling.Domain\obj
+src\UrlHandling.UrlResource\bin
+src\UrlHandling.UrlResource\obj
